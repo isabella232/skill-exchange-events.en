@@ -9,9 +9,9 @@ feature-set: Marketo Engage
 
 + [Overview](./overview.md)
 + Marketo - March 2021 {#marketo2021}
-  + [Creating Programs Within Adobe Marketo Engage](create-programs.md)
-  + [Adobe Marketo Engage Rockstar Segment](rockstar.md)
-  + [Reporting within Marketo Engage](./reporting.md)
-  + [A Top-Rope Dive Into Custom Objects and Velocity](custom-objects.md)
-  + [The Ultimate Tips & Tricks For Your Forms](forms-tips-and-tricks.md)
-  + [The Power of a Smart Campaign](smart-campaign.md)
+  + [Creating Programs Within Adobe Marketo Engage](./marketo2021/create-programs.md)
+  + [Adobe Marketo Engage Rockstar Segment](./marketo2021/rockstar.md)
+  + [Reporting within Marketo Engage](./marketo2021/reporting.md)
+  + [A Top-Rope Dive Into Custom Objects and Velocity](./marketo2021/custom-objects.md)
+  + [The Ultimate Tips & Tricks For Your Forms](./marketo2021/forms-tips-and-tricks.md)
+  + [The Power of a Smart Campaign](./marketo2021/smart-campaign.md)
