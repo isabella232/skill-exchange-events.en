@@ -2,7 +2,7 @@
 user-guide-title: The Skill Exchange
 user-guide-breadcrumb: The Skill Exchange
 user-guide-description: Collection of recordings from Experience Makers The Skill Exchange
-feature-set: Marketo
+feature-set: Marketo Engage
 ---
 
 # The Skill Exchange {#events}
