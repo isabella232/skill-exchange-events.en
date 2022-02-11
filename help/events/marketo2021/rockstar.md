@@ -1,8 +1,6 @@
 ---
 title: Adobe Marketo Engage Rockstar Segment
 description: Four "Rockstar" customers will each present their best Marketo Engage tip or trick. Who will dazzle you beyond belief?
-feature: ???
-topic: ???
 role: User
 level: Beginner
 kt: 9707

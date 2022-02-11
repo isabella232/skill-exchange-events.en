@@ -1,8 +1,6 @@
 ---
 title: Get inFORMation - The Ultimate Tips & Tricks For Your Forms
 description: Forms are a critical part of an organization's Demand Generation journey, but there are often questions to answer to make sure they are optimized. In this sess… (Descriptions should be between 60 and 160 characters)
-feature: ???
-topic: ???
 role: User
 level: Beginner
 kt: 9709

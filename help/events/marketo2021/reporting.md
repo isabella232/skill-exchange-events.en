@@ -1,8 +1,6 @@
 ---
 title: Reporting within Marketo Engage
 description: This session will review all of the Reporting Tools available in Marketo Engage including:  Reports  Smart Lists  Analyzers  MPI  Email Insights  Revenue Explo… (Descriptions should be between 60 and 160 characters)
-feature: ???
-topic: ???
 role: User
 level: Beginner
 kt: 9710
