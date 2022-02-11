@@ -1,7 +1,6 @@
 ---
 title: The Power of a Smart Campaign
-description: In this session you will learn all about Smart Campaigns including: Smart List - Triggers & Filters, Flow, Schedule and Results.You will leave this session wit… (Descriptions should be between 60 and 160 characters)
-
+description: In this session you will learn all about Smart Campaigns including - Smart List - Triggers & Filters, Flow, Schedule and Results. 
 role: User
 level: Beginner
 kt: 9711

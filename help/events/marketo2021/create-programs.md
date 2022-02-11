@@ -1,6 +1,6 @@
 ---
 title: Creating Programs Within Adobe Marketo Engage
-description: This session will teach you all about Program Structure including - Program Types, Channels & Statuses and Tags. You will also learn about the Foundation Progra… (Descriptions should be between 60 and 160 characters)
+description: This session will teach you all about Program Structure including - Program Types, Channels & Statuses and Tags.
 role: User
 level: Beginner
 kt: 9706
