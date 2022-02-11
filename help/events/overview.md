@@ -4,7 +4,7 @@ description: Spicy jalapeno bacon ipsum dolor amet ut filet mignon chicken
 ---
 # The Skill Exchange {#overview}
 
-<img alt="The Skill Exchange" src="/help/assets/skill-exchange.png" />
+<img alt="The Skill Exchange" src="./assets/skill-exchange.png" />
 
 Spicy jalapeno bacon ipsum dolor amet ut filet mignon chicken nisi quis ex. Salami chislic irure magna porchetta dolore aliquip. Burgdoggen in corned beef aliquip prosciutto tongue esse fatback et. In esse chislic ham boudin consequat. Laborum short ribs reprehenderit esse dolor beef frankfurter nulla est ball tip quis porchetta. Consequat culpa enim, tongue occaecat elit nulla venison nostrud in adipisicing flank dolore fugiat sirloin.
 
@@ -19,11 +19,11 @@ Register for future events **[here](https://developerevents.adobe.com/)**.
 <table>
   <tr>
    <td>
-      <a href="./rockstar.md">
-      <img alt="Adobe Marketo Engage Rockstar Segment" src="/help/assets/rockstar.png"/>
+      <a href="/help/events/marketo2021/rockstar.md">
+      <img alt="Adobe Marketo Engage Rockstar Segment" src="./assets/rockstar.png"/>
       </a>
       <div>
-         <a href="./rockstar.md"><strong>Adobe Marketo Engage Rockstar Segment</strong></a>
+         <a href="/help/events/marketo2021/rockstar.md"><strong>Adobe Marketo Engage Rockstar Segment</strong></a>
 <!----         <br/><em>foo</em> --->
       </div>
       <p>
@@ -32,11 +32,11 @@ Register for future events **[here](https://developerevents.adobe.com/)**.
       </p>
     </td>
    <td>
-      <a href="./reporting.md">
-      <img alt="Reporting within Marketo Engage" src="/help/assets/reporting.png"/>
+      <a href="/help/events/marketo2021/reporting.md">
+      <img alt="Reporting within Marketo Engage" src="./assets/reporting.png"/>
       </a>
       <div>
-         <a href="./reporting.md"><strong>Reporting within Marketo Engage</strong></a>
+         <a href="/help/events/marketo2021/reporting.md"><strong>Reporting within Marketo Engage</strong></a>
 <!----         <br/><em>foo</em> --->
       </div>
       <p>
@@ -45,11 +45,11 @@ Register for future events **[here](https://developerevents.adobe.com/)**.
       </p>
     </td>
    <td>
-      <a href="./create-programs.md">
-      <img alt="Creating Programs Within Adobe Marketo Engage" src="/help/assets/create-programs.png"/>
+      <a href="/help/events/marketo2021/create-programs.md">
+      <img alt="Creating Programs Within Adobe Marketo Engage" src="./assets/create-programs.png"/>
       </a>
       <div>
-         <a href="./create-programs.md"><strong>Creating Programs Within Adobe Marketo Engage</strong></a>
+         <a href="/help/events/marketo2021/create-programs.md"><strong>Creating Programs Within Adobe Marketo Engage</strong></a>
 <!----         <br/><em>foo</em> --->
       </div>
       <p>
