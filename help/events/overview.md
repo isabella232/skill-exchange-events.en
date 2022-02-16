@@ -1,14 +1,12 @@
 ---
 title: The Skill Exchange
-description: Spicy jalapeno bacon ipsum dolor amet ut filet mignon chicken
+description: Experience Makers The Skill Exchange is a global series of virtual customer learning events, focusing on diving deeper into Adobe Experience Cloud solutions.
 ---
 # The Skill Exchange {#overview}
 
 <img alt="The Skill Exchange" src="./assets/skill-exchange.png" />
 
-Spicy jalapeno bacon ipsum dolor amet ut filet mignon chicken nisi quis ex. Salami chislic irure magna porchetta dolore aliquip. Burgdoggen in corned beef aliquip prosciutto tongue esse fatback et. In esse chislic ham boudin consequat. Laborum short ribs reprehenderit esse dolor beef frankfurter nulla est ball tip quis porchetta. Consequat culpa enim, tongue occaecat elit nulla venison nostrud in adipisicing flank dolore fugiat sirloin.
-
-Register for future events **[here](https://developerevents.adobe.com/)**.
+Experience Makers The Skill Exchange is a global series of virtual customer learning events, focusing on diving deeper into Adobe Experience Cloud solutions. This program provides opportunity to learn from Adobe product experts and expert peers through sharing of best practices and tips & tricks.
 
 >[!TIP]
 >
