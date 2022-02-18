@@ -1,6 +1,7 @@
 ---
 title: The Skill Exchange
 description: Experience Makers The Skill Exchange is a global series of virtual customer learning events, focusing on diving deeper into Adobe Experience Cloud solutions.
+exl-id: 6c5af582-723a-46dc-846b-b0159ee60faf
 ---
 # The Skill Exchange {#overview}
 

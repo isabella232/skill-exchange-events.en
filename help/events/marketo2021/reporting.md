@@ -5,8 +5,8 @@ role: User
 level: Beginner
 kt: 9710
 thumbnail: 340309.jpeg
+exl-id: e75ebf78-0fa3-4707-bace-0a9639df9bbc
 ---
-
 # Reporting within Marketo Engage
 
 This session will review all of the Reporting Tools available in Marketo Engage including:

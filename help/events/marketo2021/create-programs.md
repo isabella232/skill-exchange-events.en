@@ -5,8 +5,8 @@ role: User
 level: Beginner
 kt: 9706
 thumbnail: 340308.jpeg
+exl-id: cd679f20-9cd2-49f4-b060-6488dcf3e287
 ---
-
 # Creating Programs Within Adobe Marketo Engage
 
 This session will teach you all about Program Structure including - Program Types, Channels & Statuses and Tags. You will also learn about the Foundation Program Concept and What Makes up a Program.
